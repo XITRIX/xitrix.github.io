@@ -1,0 +1,31 @@
+<package>
+	<id>ru.nonamedude.iTorrent</id>
+	<name>iTorrent</name>
+	<version>1.8.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iTorrent - an iOS torrent client</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Added RSS feed</change>
+		<change>Improved section partitioning</change>
+		<change>Added support for other P2P protocols</change>
+		<change>Added support for proxy server</change>
+		<change>Added port selection</change>
+		<change>Added custom choice of speed limitations</change>
+		<change>Libtorrent updated to 1.2.7</change>
+		<change>Other, less noticeable interface improvements</change>
+		<change>Many bugs fixed (possibly new ones added)</change>
+	</changelog>
+	<links></links>
+</package>

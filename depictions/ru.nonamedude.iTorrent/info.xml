@@ -27,5 +27,11 @@
 		<change>Other, less noticeable interface improvements</change>
 		<change>Many bugs fixed (possibly new ones added)</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>GitHub Page</name>
+			<url>https://github.com/XITRIX/iTorrent</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
